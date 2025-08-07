@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
-  <version>1.0.0.1</version>
-  <url>https://github.com/TuanChuBG/my-app-updates/releases/download/v1.0.0.1/KTHS2025_v1.0.0.1.zip</url>
-  <changelog>Cập nhật tính năng và sửa lỗi</changelog>
+  <version>1.0.0.2</version>
+  <url>https://github.com/TuanChuBG/my-app-updates/releases/download/v1.0.0.2/KTHS2025_v1.0.0.2.zip</url>
+  <changelog>Cập nhật một số tính năng mới</changelog>
   <mandatory>false</mandatory>
 </item>
