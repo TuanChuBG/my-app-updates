@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>1.8</version>
+  <version>2.1</version>
   <changelog>Đã sửa lỗi và cải tiến hiệu suất</changelog>
-  <url>https://github.com/TuanChuBG/my-app-updates/releases/download/Ver1.8/KTHSInstaller_1.8.exe</url>
+  <url>https://github.com/TuanChuBG/my-app-updates/releases/download/V2.1/KTHSInstaller_2.1.exe</url>
   <mandatory>false</mandatory>
 
 </item>
+
 
 
 
