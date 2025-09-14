@@ -3,9 +3,10 @@
   <version>3.1</version>
   <changelog>Đã sửa lỗi và cải tiến hiệu suất</changelog>
   <url>https://github.com/TuanChuBG/my-app-updates/releases/download/v3.2/KTHSInstaller_3.2.0.0.exe/url>
-  <mandatory>true</mandatory>
+  <mandatory>false</mandatory>
 
 </item>
+
 
 
 
