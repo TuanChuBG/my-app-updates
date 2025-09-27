@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>3.6.0.0</version> 
+  <version>3.7.0.0</version> 
   <url>https://github.com/TuanChuBG/my-app-updates/releases/download/V3.7/KTHSInstaller_3.7.0.0.exe</url>
   <changelog>Đã sửa lỗi và cải tiến hiệu suất</changelog>
   <mandatory>false</mandatory>
 </item>
+
 
 
 
