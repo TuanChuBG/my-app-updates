@@ -4,7 +4,7 @@
     6.2.0.0
   </version>
   <url>
-    https://github.com/TuanChuBG/my-app-updates/releases/download/V6.2/KTHSInstaller_6.2.0.0.exe
+    https://github.com/TuanChuBG/my-app-updates/releases/download/V6.3/KTHSInstaller_6.3.0.0.exe
   </url>
   <changelog>
     Đã sửa lỗi và cải tiến hiệu suất
@@ -13,6 +13,7 @@
     true
   </mandatory>
 </item>
+
 
 
 
