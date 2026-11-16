@@ -5,6 +5,6 @@
     https://github.com/TuanChuBG/my-app-updates/releases/download/V7.7.0.3/KTHS_Setup_7.7.0.3.exe
   </url>
   <args>/DIR="%path%" /NORESTART</args>
-  <checksum algorithm="SHA256">467DC1CC36E43F65E5B083A964A3BCDAE72CA2AFD8547A8A93C9A6433E4BAD45</checksum>
+  <checksum algorithm="SHA256">7EB848C510958ADB6DB3AEC3826F9562CFAC6AB9C01F28EBD480A3256BB4B9C1</checksum>
   <mandatory>true</mandatory>
 </item>
