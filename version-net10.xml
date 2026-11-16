@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
-  <version>7.7.0.2</version>
+  <version>7.7.0.3</version>
   <url>
-    https://github.com/TuanChuBG/my-app-updates/releases/download/V7.7.0.2/KTHS_Setup_7.7.0.2.exe
+    https://github.com/TuanChuBG/my-app-updates/releases/download/V7.7.0.3/KTHS_Setup_7.7.0.3.exe
   </url>
   <args>/DIR="%path%" /NORESTART</args>
   <checksum algorithm="SHA256">467DC1CC36E43F65E5B083A964A3BCDAE72CA2AFD8547A8A93C9A6433E4BAD45</checksum>
